@@ -1,7 +1,7 @@
 # ZdacTestDevelopment
 
 Nazwa - "ZdacTest"
-Logo - ogarnia Tymur
+Logo - grefics/logotypes/logo-ZdacTest.png
 
 
 ## Zespół:
