@@ -1,7 +1,8 @@
 # ZdacTestDevelopment
 
 Nazwa - "ZdacTest"
-Logo - grefics/logotypes/logo-ZdacTest.png
+
+Logo - '''grefics/logotypes/logo-ZdacTest.png'''
 
 
 ## Zespół:
