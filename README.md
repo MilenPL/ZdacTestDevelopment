@@ -3,6 +3,9 @@
 Nazwa - "ZdacTest"
 Logo - ogarnia Tymur
 
+
+Zespół:
+
 Leon - Marketing
 
 Ignacy - Dokumentacja
@@ -16,5 +19,7 @@ Tymur - Grafik
 Bartosz - 
 
 Krzysztof - Marketing
+
+
 
 Potencjalni partnerzy: Google, Samsung, Bookbeat, Logitech, Allegro, ING, Akademia Polsko-Japońska, Inpost
