@@ -2,7 +2,8 @@
 
 Nazwa - "ZdacTest"
 
-Logo - ''grefics/logotypes/logo-ZdacTest.png''
+Logo - ''gra
+ics/logotypes/logo-ZdacTest.png''
 
 
 ## Zespół:
